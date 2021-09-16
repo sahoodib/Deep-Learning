@@ -1,5 +1,7 @@
 # Deep-Learning(Solutions will be uploaded after december 2021)
 This folder contains or will be containing all Deep Learning assignments
+
+
 HW1:   S&P500 Index Prediction
 The objectives of this homework are to (1) implement gradient descent by yourself and (2) get familiar with model selection.
 Dataset:
